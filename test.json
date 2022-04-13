@@ -1,0 +1,22 @@
+{
+  "ground_speed": "5" ,
+  "flight_path_angle": "6" ,
+  "launch_azimuth": "1" ,
+
+  "ground_angular_velocity_1": "1" ,
+  "ground_angular_velocity_2": "2" ,
+  "ground_angular_velocity_3": "3" ,
+
+  "longtitude": "130.9501926" ,
+  "latitude": "30.3810975" ,
+  "altitude": "5" ,
+
+  "euler_angle_1": "3" ,
+  "euler_angle_2": "2" ,
+  "euler_angle_3": "1" ,
+
+  "start_time": "1",
+  "center_of_gravity_1": "5" ,
+  "center_of_gravity_2": "5" ,
+  "center_of_gravity_3": "5"
+}
